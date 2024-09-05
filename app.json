@@ -31,7 +31,7 @@
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
       "required": true,
-      "value": "Gifted~ehZQPjDZ"
+      "value": "Gifted~QTGNGcgH"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
