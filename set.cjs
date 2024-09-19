@@ -22,8 +22,8 @@ const config = {
   MODE: process.env.MODE || 'public',
   PREFIX: process.env.PREFIX || '.',
   PORT: process.env.PORT || "5000",
-  OWNER_NAME: process.env.OWNER_NAME || "Achibot",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "Achibot",
+  OWNER_NAME: process.env.OWNER_NAME || "Aᴄʜɪʙᴏᴛ",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "Aᴄʜɪʙᴏᴛ",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false,
 };
 module.exports = config;
